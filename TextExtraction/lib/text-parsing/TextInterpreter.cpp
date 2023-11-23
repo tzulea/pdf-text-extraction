@@ -11,7 +11,7 @@
 #include "PDFObjectCast.h"
 #include "PDFParser.h"
 
-
+#include <cmath>
 #include <sstream>
 
 using namespace std;
